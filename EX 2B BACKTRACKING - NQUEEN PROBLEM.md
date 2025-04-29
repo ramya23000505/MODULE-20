@@ -25,6 +25,8 @@ Program to implement N-Queen problem using backtracking.
 Developed by: RAMYA R
 Register Number:  212223230169
 */
+
+
 global N
 N = int(input())
  
