@@ -5,9 +5,9 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 
 
 ## Algorithm
-1. Start the program
+1. Start the program.
 
-2.Take the number of elements n and the list of n integers as input, followed by the target sum x.
+2. Take the number of elements n and the list of n integers as input, followed by the target sum x.
 
 3. Use combinations from the itertools library to generate all possible subsets of the list.
 
